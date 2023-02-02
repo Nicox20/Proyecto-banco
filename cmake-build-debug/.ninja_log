@@ -1,0 +1,12 @@
+# ninja log v5
+7	499	6934229673163207	build.ninja	cefcaa5b8a31ef12
+18	4578	6913052607242749	CMakeFiles/Proyecto_clion.dir/PR/main.cpp.obj	ec2d318c3f4d0bfb
+7	4003	6912176309533127	CMakeFiles/Proyecto_clion.dir/PR/libgame.cpp.obj	82be0053a2a47011
+8	4392	6913052605352743	CMakeFiles/Proyecto_clion.dir/PR/CMenu.cpp.obj	8bbbc3d2277e7812
+4578	5430	6913052615742706	Proyecto_clion.exe	1f6139a7cca1a5ed
+20	3950	6934230104448705	CMakeFiles/Proyecto_clion.dir/PR/libgame.cpp.obj	181a317320cf22
+14	4615	6934230111698447	CMakeFiles/Proyecto_clion.dir/PR/main.cpp.obj	81d8f65fa9eeeebe
+2	4728	6934230112853801	CMakeFiles/Proyecto_clion.dir/PR/CMenu.cpp.obj	c1b36591b731b148
+4729	5348	6934230119043251	Proyecto_clion.exe	5c0179c676c59f21
+4	1744	6934233021653783	CMakeFiles/Proyecto_clion.dir/PR/main.cpp.obj	81d8f65fa9eeeebe
+1745	2103	6934233025203681	Proyecto_clion.exe	5c0179c676c59f21
